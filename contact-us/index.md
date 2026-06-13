@@ -7,4 +7,4 @@ description: Contact Analytic Strategy Partners
 
 Please contact us if you would like to use any of our [services](/services/) or if you would like Bob to give a talk at your event.
 
-You can reach us at: info@analyticstrategy.com
+You can reach us via Linkedin.
