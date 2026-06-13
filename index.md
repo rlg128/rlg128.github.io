@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Analytic Strategy
 description: Analytic Strategy Partners - Improve your analytic operations and refine your analytic strategy
 ---
