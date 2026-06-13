@@ -1,4 +1,5 @@
 ---
+layout: page
 title: About Analytic Strategy Partners
 description: Experience. Independence. Perspective.
 ---
