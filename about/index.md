@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-description: About Analytic Strategy Partners
+nav_title: About
+permalink: /about/
 ---
 
 <!-- # About -->
