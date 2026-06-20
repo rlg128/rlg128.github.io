@@ -6,6 +6,10 @@ author: Robert L. Grossman
 
 theme: minima
 
+minima:
+  social_links:
+    linkedin: robertgrossman/
+
 permalink: /:title/
 
 # Header pages
