@@ -5,7 +5,7 @@ nav_title: Home
 permalink: /home/
 ---
 
-# Analytic Strategy
+<!-- # Analytic Strategy -->
 
 #### To Learn About Analytic Strategy
 
