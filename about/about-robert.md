@@ -3,7 +3,7 @@ title: About Robert Grossman
 description: Bob Grossman - Thought leader in data science and analytics
 ---
 
-# About Robert Grossman
+<!-- # About Robert Grossman -->
 
 Bob has been a thought leader in data science and analytics for over 25 years and founded Analytic Strategy Partners LLC in 2016. He is the Managing Partner.
 

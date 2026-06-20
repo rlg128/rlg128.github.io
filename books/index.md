@@ -3,7 +3,7 @@ title: Books
 description: Books by Robert Grossman on analytic strategy
 ---
 
-# Books
+<!-- # Books -->
 
 ## Developing an Analytic Strategy: a Primer
 
@@ -13,7 +13,9 @@ It covers seven standard strategy tools and frameworks that have been adapted or
 
 The primer also covers specialized tools and frameworks to support analytic strategy, including the Analytic Diamond and the Analytic Value Chain.
 
-The ebook *Developing an Analytic Strategy: A Primer* can be purchased as a downloadable pdf for $24.50.
+<!-- The ebook *Developing an Analytic Strategy: A Primer* can be purchased as a downloadable pdf for $24.50. -->
+
+Developing an Analytic Strategy: A Primer will be available on Amazon Kindle in the fourth quarter of 2026.
 
 ## The Structure of Digital Computing
 

@@ -4,7 +4,7 @@ title: About Analytic Strategy Partners
 description: Experience. Independence. Perspective.
 ---
 
-# About Analytic Strategy Partners
+<!-- # About Analytic Strategy Partners -->
 
 #### Experience. Independence. Perspective.
 

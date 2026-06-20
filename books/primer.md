@@ -3,7 +3,7 @@ title: Developing an AI Strategy - A Primer
 description: A primer on developing an AI or analytic strategy
 ---
 
-# Developing an AI Strategy – A Primer
+<!-- # Developing an AI Strategy – A Primer -->
 
 ## Do you have to develop or review an AI Strategy?
 
@@ -49,4 +49,6 @@ The primer also covers specialized tools and frameworks to support analytic stra
 - Organizational structures for analytics
 - Outlines of sample analytic/AI strategies
 
-The book can be purchased as a downloadable PDF for $24.50.
+<!-- The book can be purchased as a downloadable PDF for $24.50. -->
+
+Developing an Analytic Strategy: A Primer will be available on Amazon Kindle in the fourth quarter of 2026.
