@@ -1,0 +1,88 @@
+---
+---
+
+@import "minima";
+
+/* Header layout: logo/site title on the left, nav on the right */
+.site-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 64px;
+}
+
+/* Brand block */
+.site-branding {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.site-branding:hover {
+  text-decoration: none;
+}
+
+.site-logo {
+  display: block;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.site-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+/* Push nav to the right */
+.site-nav {
+  margin-left: auto;
+}
+
+/* Desktop nav */
+.site-nav .trigger {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+.site-nav .page-link {
+  margin-left: 0;
+  white-space: nowrap;
+}
+
+/* Keep Minima mobile menu working cleanly */
+@media screen and (max-width: 600px) {
+  .site-header-inner {
+    position: relative;
+    align-items: center;
+  }
+
+  .site-branding {
+    max-width: calc(100% - 60px);
+  }
+
+  .site-title {
+    font-size: 1.1rem;
+  }
+
+  .site-logo {
+    width: 28px;
+    height: 28px;
+  }
+
+  .site-nav {
+    margin-left: 0;
+  }
+
+  .site-nav .trigger {
+    display: block;
+  }
+}

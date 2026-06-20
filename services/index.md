@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Areas of Practice
-description: Analytic Strategy Partners services and areas of practice
+nav_title: Services
+permalink: /services/
 ---
 
 # Areas of Practice
