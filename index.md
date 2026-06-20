@@ -2,7 +2,7 @@
 layout: home
 title: Analytic Strategy
 nav_title: Home
-permalink: /home/
+permalink: /
 ---
 
 <!-- # Analytic Strategy -->
