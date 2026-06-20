@@ -6,9 +6,8 @@ author: Robert L. Grossman
 
 theme: minima
 
-minima:
-  social_links:
-    linkedin: robertgrossman/
+social_links:
+  linkedin: robertgrossman/
 
 permalink: /:title/
 
