@@ -1,9 +1,11 @@
 ---
+layout: page
 title: Contact Us
-description: Contact Analytic Strategy Partners
+nav_title: Contact Us
+permalink: /contact-us/
 ---
 
-# Contact Us
+<!-- # Contact Us -->
 
 Please contact us if you would like to use any of our [services](/services/) or if you would like Bob to give a talk at your event.
 
