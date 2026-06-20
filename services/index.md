@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Areas of Practice
 nav_title: Services
 permalink: /services/
 ---
